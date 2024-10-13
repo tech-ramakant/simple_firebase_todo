@@ -2,6 +2,7 @@
 
 This repository contains the source code for the tutorial **[Building a Firebase Todo App: The Fun, Beginner-Friendly Way! 🚀](https://medium.com/@tech.ramakant/building-a-firebase-todo-app-the-fun-beginner-friendly-way-75278f93bdde)** published on Medium. It walks you through the steps of creating a Flutter-based Todo app with **Firebase Firestore** integration for real-time data handling. This app is beginner-friendly, engaging, and scalable.
 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
